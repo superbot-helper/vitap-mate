@@ -13,7 +13,7 @@
     "@noble/curves": "2.4.0",
     "@noble/hashes": "2.4.0",
     "fflate": "0.8.2",
-    "postal-mime": "4.0.4"
+    "postal-mime": "4.2.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "5.20261001.1",
